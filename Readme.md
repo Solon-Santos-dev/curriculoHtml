@@ -1,0 +1,1 @@
+Projeto com o objetivo de fortalecer os conhecimentos em HTML, por meio de um curriculo que ficará disponibilizado na Web.
